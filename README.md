@@ -46,7 +46,7 @@
 
 ## 🛤️ Roadmap (High-Level Overview)
 
-We’re currently building the MVP in agile sprints. Here's a snapshot of our development plan:
+We’re currently in the Scoping & Discovery phase to define the MVP. Here’s a snapshot of our development plan:
 
 <details>
 <summary><strong>📍 Expand Full Roadmap</strong></summary>
