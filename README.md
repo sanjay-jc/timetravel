@@ -1,6 +1,6 @@
 # 🚌 TimeTravel – Real-Time Public Transit Tracker
 
-**UrbanLoop** is an open-source mobile app that empowers users to:
+**TimeTravel** is an open-source mobile app that empowers users to:
 
 - 🚍 Track buses in real-time  
 - 🔁 Discover optimal multi-bus routes  
@@ -105,7 +105,7 @@ Planned areas for contribution:
 
 ## 🙌 Credits & Inspiration
 
-UrbanLoop was born from the need for **hyper-local public transit visibility** in Indian cities. 
+TimeTravel was born from the need for **hyper-local public transit visibility** in Indian cities. 
 
 ---
 
